@@ -8,4 +8,8 @@ This is the Google Code wiki for the Phantom anonymization project.
 
 = Details =
 
-More content will be added to it as the project progresses.
+White paper describing the protocol and its design:
+[http://www.fortego.se/phantom-paper.pdf]
+
+Slides from the DEFCON 2008 presentation about the protocol:
+[http://www.fortego.se/phantom-pres.ppt]
