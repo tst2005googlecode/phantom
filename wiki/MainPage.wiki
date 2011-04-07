@@ -9,7 +9,7 @@ This is the Google Code wiki for the Phantom anonymization project.
 = Details =
 
 The latest version of the source release package:
-[http://www.magnusbrading.com/phantom/phantom.tar.gz]
+[http://code.google.com/p/phantom/downloads]
 
 
 White paper describing the protocol and its design:
